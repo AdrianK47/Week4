@@ -1,11 +1,11 @@
 import java.util.*;
 public class GradeAvg {
     public static void main(String[] args){
-        int grade1;
-        int grade2;
-        int grade3;
-        int grade4;
-        int grade5;
+        double grade1;
+        double grade2;
+        double grade3;
+        double grade4;
+        double grade5;
 
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the grade #1: ");
